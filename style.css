@@ -1,0 +1,19 @@
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.link {
+    color: red;    
+    text-decoration: none;
+}
+
+.link2 {
+    color:beige
+}
+
+.renk {
+    color: blueviolet;
+}
